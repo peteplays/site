@@ -1,0 +1,34 @@
+{
+	"text":{
+		"banner_text":"peteplays",
+		"first_section_text":"Plug IN. Tune UP. Rock OUT.",
+		"project_section_text":"Projects",
+		"more_section_text":"There is always more around the corner... Stay tuned!"
+	},
+	"images":{
+		"peteplays_logo":"images/petelogo.png",
+		"peteplays_thumbs_up_logo":"images/petelogo2.png"
+	},
+	"project_section":[
+		{	
+			"title":"Pete's Ice Cream House",
+			"link":"/petesicecreamhouse",
+			"description":"At Pete's Ice Cream House you can select an ice cream cone, ice cream float, or a milkshake. There are six different flavors or ice cream, two different types of cones, three different soda flavors, and 3 different types of milk."
+		},
+		{	
+			"title":"Pete's Food Blog",
+			"link":"https://peteplays.wordpress.com/",
+			"description":"Check out some awesome food. (There is a lot of pizza)"
+		},
+		{	
+			"title":"CODE talk",
+			"link":"https://vimeo.com/84447257",
+			"description":"I took the Android side of the ago old debate... Android VS. iOS.  Check out the debate!"
+		},
+		{	
+			"title":"CHS Tech Girl",
+			"link":"http://www.chstechgirl.com/from-a-dance-instructor-to-a-software-engineer/",
+			"description":"Suzelle Santos came by our office to interview our team about CODEcamp."
+		}
+	]
+}
