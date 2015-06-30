@@ -28,7 +28,7 @@ include 'config.php';
         <link href="css/plays.css" rel="stylesheet">
     </head>
 <body>
-    <?php include_once("service/ga.php"); ?> 
+    <?php include_once 'service/ga.php'; ?> 
 
     <div class="sb-bg sb-bg-1" id="top_section">
         <div class="textCenter plays_banner">
