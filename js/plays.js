@@ -21,14 +21,14 @@ $(window).on('scroll', function () {
     if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
       //alert("Mobile Detected: ");
     } else {
-        //--fade in/out logo when scrolling form tops
+        //--fade in/out logo when scrolling from top
         if( $(this).scrollTop() === 0 ) {
             $('.plays_banner').slideDown('ease');
         } else {
             $('.plays_banner').slideUp('ease');
         }
     }   
-    //--hi lite floating menu when in section
+    //--hilite floating menu when in section
     if ( $(window).scrollTop() <= 12 ) {
         removeActiveClassFromFloatingMenu();
         $('#floating_menu_1').addClass('floating_menu_selected');
