@@ -11,6 +11,7 @@
 body, html{ 
   height: 100%;
   font-family: 'Poiret One', cursive;
+  background-color: #60532B;
 }
 h2{
   font-size: 230%
@@ -109,6 +110,7 @@ h2{
 }
 .sb-footer{
   height: 80px;
+  overflow: hidden;
 }
 .sb-footer ul{
   margin: -70px 30px 30px;
